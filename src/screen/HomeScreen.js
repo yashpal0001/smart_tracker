@@ -11,7 +11,7 @@ import {ExpenseContext}
 from '../context/ExpenseContext';
 
 import ExpenseCard
-from '../components/ExpenseCard';
+from '../component/ExpenseCard';
 
 export default function HomeScreen({
   navigation,
